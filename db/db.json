@@ -502,7 +502,7 @@
             "promoCodes": [],
             "language": "RU",
             "subtitle": "AZ",
-            "type": "_2D",
+            "type": "2D",
             "hallType": "REGULAR",
             "movie": {
                 "id": "680a15e087f15d5253eef85c",
@@ -584,7 +584,7 @@
             "promoCodes": [],
             "language": "RU",
             "subtitle": "AZ",
-            "type": "_2D",
+            "type": "2D",
             "hallType": "REGULAR",
             "movie": {
                 "id": "680a15e087f15d5253eef85c",
@@ -679,7 +679,7 @@
             "promoCodes": [],
             "language": "RU",
             "subtitle": "AZ",
-            "type": "_2D",
+            "type": "2D",
             "hallType": "REGULAR",
             "movie": {
                 "id": "680a15e087f15d5253eef85c",
@@ -761,7 +761,7 @@
             "promoCodes": [],
             "language": "RU",
             "subtitle": "AZ",
-            "type": "_2D",
+            "type": "2D",
             "hallType": "REGULAR",
             "movie": {
                 "id": "680a15e087f15d5253eef85c",
@@ -856,7 +856,7 @@
             "promoCodes": [],
             "language": "RU",
             "subtitle": "AZ",
-            "type": "_2D",
+            "type": "2D",
             "hallType": "REGULAR",
             "movie": {
                 "id": "680a15e087f15d5253eef85c",
